@@ -1,7 +1,7 @@
 package com.company;
 
 public class Moraba {
-    private int tol,arz;
+    private int tols,arzs;
 
     public Moraba(int tol, int arz) {
         this.tol = tol;
