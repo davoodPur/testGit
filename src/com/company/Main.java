@@ -14,6 +14,7 @@ public class Main {
 //        }
         if (1.1+2.2==3.3){
             System.out.println("hack shod");
+            System.out.println("adsad");
         }else {
             System.out.println("hack shoodid");
         }
