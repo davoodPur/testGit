@@ -13,9 +13,9 @@ public class Main {
 //            System.out.println("2 ta daiere barabar nistan");
 //        }
         if (1.1+2.2==3.3){
-            System.out.println("wow");
+            System.out.println("hack shod");
         }else {
-            System.out.println("WOoooooooW");
+            System.out.println("hack shoodid");
         }
 
             }
